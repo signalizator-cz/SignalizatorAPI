@@ -1,0 +1,4 @@
+servername = domainorip
+username = dbusername
+password = dbpassword
+database = databesname
